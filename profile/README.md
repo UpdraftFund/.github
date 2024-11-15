@@ -118,6 +118,10 @@ A drafter can set a stream rate for their solution. This allows contributors  to
 
 Any time after a solution reaches its goal, if enough funders (whose contributions total more than half of the goal) vote to reject it, the stream will be stopped and anything left in the fund will be returned to funders proportional to their contributions.
 
+### Splitting and vesting
+
+In addition to streaming, drafters can choose to enforce splitting and/or vesting on their solution funds. By enforce distribution mechanism up front, funders can feel more confident that their funds will be used appropriately.
+
 ### Comments
 
 Allow anyone to comment on ideas and solutions. This will require moderation.

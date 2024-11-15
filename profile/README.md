@@ -120,7 +120,7 @@ Any time after a solution reaches its goal, if enough funders (whose contributio
 
 ### Splitting and vesting
 
-In addition to streaming, drafters can choose to enforce splitting and/or vesting on their solution funds. By enforcing distribution mechanisms up front, funders can feel more confident that their funds will be used appropriately.
+In addition to streaming, drafters can choose to enforce splitting and/or vesting on their solution funds. By enforcing distribution mechanisms up front, drafters can help funders feel more confident that their funds will be used appropriately.
 
 ### Comments
 

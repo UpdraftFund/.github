@@ -1,5 +1,5 @@
 # 🪁Updraft
-![updraft-512](https://github.com/user-attachments/assets/ab170c89-ff42-4e6b-ab77-0576f1977457)
+![updraft-512](updraft-512.png)
 
 Get paid to crowdfund and work on public goods.
 
@@ -20,7 +20,7 @@ If a solution doesn't reach its support goal, funders receive a refund from the 
 You also earn money from any support that comes after yours. A drafter can continue to receive support and add more goals while early funders continue to earn.
 
 Funding flow diagram ([Link to larger version with explanations](https://hackmd.io/VAIblnwwRwCUA1bkUEli8A))
-![updraft-funding-flow](https://github.com/user-attachments/assets/4c9478ff-ae40-4c07-a273-185fe78d364b)
+![updraft-funding-flow](updraft-funding-flow.png)
 
 ## Vision
 

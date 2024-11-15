@@ -155,7 +155,7 @@ Fixed supply of 100B UPD.
 
 ### Founding Team
 
-10B UPD will go to the founding team, who agree to spend the majority funding ideas and solutions on Updraft or donating to the Humanity Fund.
+10B UPD will go to the founding team, who agree to spend the majority funding ideas and solutions on Updraft or donating to a universal dividend for humanity.
 
 ### Humanity
 

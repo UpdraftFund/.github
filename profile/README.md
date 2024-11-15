@@ -1,5 +1,4 @@
 # 🪁Updraft
-
 ![updraft-512](https://github.com/user-attachments/assets/ab170c89-ff42-4e6b-ab77-0576f1977457)
 
 Get paid to crowdfund and work on public goods.
@@ -21,7 +20,6 @@ If a solution doesn't reach its support goal, funders receive a refund from the 
 You also earn money from any support that comes after yours. A drafter can continue to receive support and add more goals while early funders continue to earn.
 
 Funding flow diagram ([Link to larger version with explanations](https://hackmd.io/VAIblnwwRwCUA1bkUEli8A))
-
 ![updraft-funding-flow](https://github.com/user-attachments/assets/4c9478ff-ae40-4c07-a273-185fe78d364b)
 
 ## Vision
@@ -52,9 +50,9 @@ Updraft can fund more than pure public goods. Any project can make themselves mo
 
 Updraft is built using [attention streams](https://docs.google.com/document/d/1TKA-K8YadRdgz-Qek01TUcCkRaI9CKCXGtJ31AbVWIU/edit?tab=t.0#heading=h.c8wdt9uwyj7r).
 
-Support for ideas are paid in Updraft tokens(UPD). Idea creators set the *contributor fee* for their idea as a percentage. This goes to previous funders of the idea. The idea creator doesn't need to pay the contributor fee. Both idea creators and contributors pay an anti-spam fee[^1](in UPD, set by the Updraft team). The rest of a contribution is stored and used to determine future earnings as follow-on support comes in. The contribution and earnings can be withdrawn at any time; this encourages funders to reduce support for stale ideas. Ideas with the highest *interest* (total shares generated; called "relative support" in the Attention Streams doc) are sorted at the top of the default ordering and searches in Updraft.
+Support for ideas are paid in Updraft tokens(UPD). Idea creators set the *contributor fee* for their idea as a percentage. This goes to previous funders of the idea. The idea creator doesn't need to pay the contributor fee. Both idea creators and contributors pay an anti-spam fee[^1](in UPD). The rest of a contribution is stored and used to determine future earnings as follow-on support comes in. The contribution and earnings can be withdrawn at any time; this encourages funders to reduce support for stale ideas. Ideas with the highest *interest* (total shares generated; called "relative support" in the Attention Streams doc) are sorted at the top of the default ordering and searches in Updraft.
 
-A drafter pays an anti-spam fee[^1] (in UPD, set by the Updraft team), sets a funding deadline, a stake amount (also in UPD), a funding goal (in a token they choose), and a contributor fee. Solution funders pay the contributor fee to previous funders. What remains goes to a locked solution fund. If the goal isn't reached by the deadline, the stake is paid to solution funders (split in proportion to shares, just like contributor fees) and all contributions to the solution fund are refunded.
+A drafter pays an anti-spam fee[^1] (in UPD), sets a funding deadline, a stake amount (also in UPD), a funding goal (in a token they choose), and a contributor fee. Solution funders pay the contributor fee to previous funders. What remains goes to a locked solution fund. If the goal isn't reached by the deadline, the stake is paid to solution funders (split in proportion to shares, just like contributor fees) and all contributions to the solution fund are refunded.
 
 Funders can also add any amount to the drafter's stake to attract follow-on supporters; they will get their full stake back if the solution reaches its goal and part of it back (since it's split among funders) if it doesn't.
 
@@ -145,13 +143,18 @@ Frequent funders (DAOs, philanthropists, grant-makers) can also request to have 
 
 Fixed supply of 100B UPD.
 
-70B UPD will go into liquidity pools so anyone can buy UPD.
+80B UPD will go into liquidity pools so anyone can buy UPD.
 
 ### Updraft Council
 
-30B UPD will go to the Updraft Council safe with a mandate to use them as follows.
-* 12B to fund ideas and solutions on Updraft.
-* 10B for universal dividends to humanity over the next 10 years. On "dividend day" everyone that the Council can identify as a unique human  will receive an equal portion of 1B UPD using [Unitap](https://unitap.app).
-* 8B to vest over 5 years to the founding team, with a 6 month cliff.
+10B UPD will go to the Updraft Council safe with a mandate to fund ideas and solutions on Updraft.
+
+### Founding Team
+
+10B UPD will be go to the founding team, who agree to spend the majority funding ideas and solutions on Updraft or donating to the Humanity Fund.
+
+### Humanity Fund
+
+All fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend.
 
 [^1]: The anti-spam fee for an idea is the greater of a % fee (e.g. 0.3%) and a low fixed fee (e.g. $0.10). Both are set by the Updraft team. This % fee discourages someone from contributing to their own idea just to boost it in the sort order. Drafters pay a low, fixed anti-spam fee set by the Updraft team.

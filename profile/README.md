@@ -1,4 +1,4 @@
-## 🪁Updraft
+# 🪁Updraft
 ![updraft-512](https://github.com/UpdraftFund/.github/raw/main/profile/updraft-512.png)
 
 Get paid to crowdfund and work on public goods.
@@ -151,10 +151,10 @@ Fixed supply of 100B UPD.
 
 ### Founding Team
 
-10B UPD will be go to the founding team, who agree to spend the majority funding ideas and solutions on Updraft or donating to the Humanity Fund.
+10B UPD will go to the founding team, who agree to spend the majority funding ideas and solutions on Updraft or donating to the Humanity Fund.
 
 ### Humanity Fund
 
 Anti-spam fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend.
 
-[^1]: The anti-spam fee for an idea is the greater of a % fee (e.g. 0.3%) and a low fixed fee (e.g. $0.10). Both are set by the Updraft team. This % fee discourages someone from contributing to their own idea just to boost it in the sort order. Drafters pay a low, fixed anti-spam fee set by the Updraft team.
+[^1]: The anti-spam fee for an idea is the greater of a % fee (e.g. 1%) and a low fixed fee (e.g. $0.10). Both are set by the Updraft team. The % fee discourages someone from contributing to their own idea just to boost it in the sort order. Drafters pay a low, fixed anti-spam fee set by the Updraft team.

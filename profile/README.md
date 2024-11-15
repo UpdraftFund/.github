@@ -80,13 +80,13 @@ Idea creators can add tags to their ideas. Participants can subscribe to tags so
 ### Search, sort and filter
 
 #### Search by id
-Each idea or solution should have a human-readable id so people can recommend ideas and solutions to each other and make sure they find the right one (since ideas or solutions could have similar names but different parameters).
+Each idea and solution has a human-readable id so people can recommend ideas and solutions to each other and make sure they find the right one (since ideas or solutions could have similar names but different parameters).
 
-#### Text search
-Search for words in the name or description.
+#### Text / tag search
+Search for words in the name or description or tags.
 
 #### Sort
-The default can be "hot" or "trending" which means new and popular. There can also be "top" or "popular". Finally, "new" is another sort.
+Sort by "new," "popular," etc.
 
 #### Filters
 * Solutions (filter to only show ideas with solutions)

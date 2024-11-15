@@ -73,6 +73,10 @@ When creating a solution, the drafter sets the following parameters:
 
 Ideas and solutions have a "report spam" button. If an idea or solution is reported N times it is hidden by default. The Updraft team can review hidden ideas and solutions and whitelist them (which will permanently unhide them) if appropriate. There should also be a checkbox to "show hidden items."
 
+### Subscribe to tags
+
+Idea creators can add tags to their ideas. Participants can subscribe to tags so they can find new ideas and solutions they're interested in.
+
 ### Search, sort and filter
 
 #### Search by id
@@ -102,9 +106,9 @@ Recommendation engine to show ideas similar to ones they've supported in the pas
 
 The "Ideas for you" section could feature prominently on the main page.
 
-### Spam filter fee set by community
+### Anti-spam fee set by community
 
-Set the spam filter fee amount using a continuous median vote. Anyone who is Aura verified as a unique human is eligible to vote.
+Set the anti-spam fee amount using a continuous median vote. Anyone who is Aura verified as a unique human is eligible to vote.
 
 ### Streaming and claw-back
 

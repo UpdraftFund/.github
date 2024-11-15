@@ -157,7 +157,7 @@ Fixed supply of 100B UPD.
 
 10B UPD will go to the founding team, who agree to spend the majority funding ideas and solutions on Updraft or donating to the Humanity Fund.
 
-### Humanity Fund
+### Humanity
 
 Anti-spam fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend.
 

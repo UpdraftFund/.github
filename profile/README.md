@@ -1,5 +1,5 @@
-# 🪁Updraft
-![updraft-512](updraft-512.png)
+## 🪁Updraft
+![updraft-512](https://github.com/UpdraftFund/.github/raw/main/profile/updraft-512.png)
 
 Get paid to crowdfund and work on public goods.
 
@@ -20,7 +20,7 @@ If a solution doesn't reach its support goal, funders receive a refund from the 
 You also earn money from any support that comes after yours. A drafter can continue to receive support and add more goals while early funders continue to earn.
 
 Funding flow diagram ([Link to larger version with explanations](https://hackmd.io/VAIblnwwRwCUA1bkUEli8A))
-![updraft-funding-flow](updraft-funding-flow.png)
+![updraft-funding-flow](https://github.com/UpdraftFund/.github/raw/main/profile/updraft-funding-flow.png)
 
 ## Vision
 
@@ -155,6 +155,6 @@ Fixed supply of 100B UPD.
 
 ### Humanity Fund
 
-All fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend.
+Anti-spam fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend.
 
 [^1]: The anti-spam fee for an idea is the greater of a % fee (e.g. 0.3%) and a low fixed fee (e.g. $0.10). Both are set by the Updraft team. This % fee discourages someone from contributing to their own idea just to boost it in the sort order. Drafters pay a low, fixed anti-spam fee set by the Updraft team.

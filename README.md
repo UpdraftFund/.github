@@ -4,22 +4,22 @@
 
 ## Permanent Branches
 
-### `Master`
+### `Main`
 
-`Master` contains tested code that has been [released](#releases) or is about to be released. `master` branch will always reflect what's deployed and used by https://aura.brightid.org .
+`Main` contains tested code that has been released or is about to be released. `main` branches will always reflect what's deployed and used by https://updraft.fund .
 
 #### Pull requests
 
-Commits to master should be done through a pull request from [`dev`](#dev) or a [hotfix branch](#hotfix-branches). `dev` branch represents the staging environment. Merging `dev` into `master` represents a release of the staging build to https://aura.brightid.org .
+Commits to main should be done through a pull request from [`dev`](#dev) or a [hotfix branch](#hotfix-branches). `dev` branch represents the staging environment. Merging `dev` into `main` represents a release of the dev/testing site to https://updraft.fund .
 
 ### `Dev`
 
 `Dev` contains code that will probably be ready in time for the next [release](#releases). `Dev` is for testing integrations from feature branches to see if they're ready to be released.
 
-* `Dev` merges into [`master`](#master).
-* [`master`](#master) merges into `dev` after [hotfixes](#hotfix-branches).
+* `Dev` merges into [`main`](#main).
+* [`main`](#main) merges into `dev` after [hotfixes](#hotfix-branches).
 
-Because all commits to master come through `dev` or through [hotfixes](#hotfix-branches) that are then merged into `dev`, `dev` should never be behind `master` for long.
+Because all commits to main come through `dev` or through [hotfixes](#hotfix-branches) that are then merged into `dev`, `dev` should never be behind `main` for long.
 
 ## Temporary Branches 
 
@@ -41,8 +41,8 @@ Large updates that may take longer than a single release cycle use temporary bra
 
 Hotfix branches are created as needed. Because multiple hotfixes may be worked on at the same time but finish at different times and need different releases, each hotfix gets its own temporary branch.
 
-* Hotfix branches are merged into [`master`](#master) using a [pull request](#pull-requests).
-* [`master`](#master) is then merged in [`dev`](#dev) to bring it up-to-date.
+* Hotfix branches are merged into [`main`](#main) using a [pull request](#pull-requests).
+* [`main`](#main) is then merged in [`dev`](#dev) to bring it up-to-date.
 * Hotfix branches should be deleted after being merged.
 
 #### Naming

@@ -34,7 +34,7 @@ Funding public goods suffers from three problems:
 2. Free-riding. If someone expects a public good to be fully funded, they could try to save their money and let others pay for it. This loophole can result in an important public good never being provided or its providers being underpaid.
 3. Assurance. Even if someone is willing to pay for a public good, they may be reluctant to support a solution that might fail if others don't also support it. These doubts compound in a negative feedback loop.
 
-Updraft gets closer than other systems to solving the preference revelation problem by attraction attention through the possibility of a reward. This is a superior system than polling or voting in which the value of a single vote is negligible and rarely worth the effort to research different options.
+Updraft gets closer than other systems to solving the preference revelation problem by attracting attention through the possibility of a reward. This is a superior system than polling or voting in which the value of a single vote is negligible and rarely worth the effort to research different options.
 
 The possibility of a reward also means that more people that would free ride are impelled to instead add their own support at a level they can afford. Even those that overpay (compared to the per-person value of the public good, but still within their personal budget) can feel good knowing that their favored solution was fully funded and the public good they care about will be available to more people.
 

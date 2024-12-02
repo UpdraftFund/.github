@@ -135,11 +135,11 @@ Drafters that create multiple solutions can request their own score cards.
 
 Frequent funders (DAOs, philanthropists, grant-makers) can also request to have their own score cards.
 
-### Streaming, splitting, vesting, and claw-back
+### Streaming, splitting, vesting, and clawback
 
 A solution can set their solution fund to stream, vest or split (to multiple recipients) which takes effect once the goal is reached. These settings can help contributors feel safer about funding the solution.
 
-A solution can configure Aura (see above) as a judge to provide funder claw back. If Aura finds the solution to be poorly implemented, any tokens left in the solution fund will be returned to funders proportional to their contributions.
+A solution can configure Aura (see above) as a judge to provide funder clawback. If Aura finds the solution to be poorly implemented, any tokens left in the solution fund will be returned to funders proportional to their contributions.
 
 ## UPD Tokens
 

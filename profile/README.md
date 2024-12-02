@@ -52,7 +52,7 @@ Updraft is built using [attention streams](https://docs.google.com/document/d/1T
 
 Support for ideas are paid in Updraft tokens(UPD). Idea creators set the *contributor fee* for their idea as a percentage. This goes to previous funders of the idea. The idea creator doesn't need to pay the contributor fee. Both idea creators and contributors pay an anti-spam fee[^1](in UPD). The rest of a contribution is stored and used to determine future earnings as follow-on support comes in. The contribution and earnings can be withdrawn at any time; this encourages funders to reduce support for stale ideas. Ideas with the highest *interest* (total shares generated; called "relative support" in the Attention Streams doc) are sorted at the top of the default ordering and searches in Updraft.
 
-A drafter pays an anti-spam fee[^1] (in UPD), sets a funding deadline, a stake amount (also in UPD), a funding goal (in a token they choose), and a contributor fee. Solution funders pay the contributor fee to previous funders. What remains goes to a locked solution fund. If the goal isn't reached by the deadline, the stake is paid to solution funders (split in proportion to shares, just like contributor fees) and all contributions to the solution fund are refunded.
+A solution drafter pays an anti-spam fee[^1] (in UPD), sets a funding deadline, a stake amount (also in UPD), a funding goal (in a token they choose), and a contributor fee. Solution funders pay the contributor fee to previous funders. What remains goes to a locked solution fund. If the goal isn't reached by the deadline, the stake is paid to solution funders (split in proportion to shares, just like contributor fees) and all contributions to the solution fund are refunded.
 
 Funders can also add any amount to the drafter's stake to attract follow-on supporters; they will get their full stake back if the solution reaches its goal and part of it back (since it's split among funders) if it doesn't.
 
@@ -110,18 +110,6 @@ The "Ideas for you" section could feature prominently on the main page.
 
 Set the anti-spam fee amount using a continuous median vote. Anyone who is Aura verified as a unique human is eligible to vote.
 
-### Streaming and claw-back
-
-A solution can set up their solution fund to stream once the goal is reached to make it more attractive to contributors.
-
-A drafter can set a stream rate for their solution. This allows contributors  to monitor progress on the implementation and claw back part of their contributions if they aren't satisfied.
-
-Any time after a solution reaches its goal, if enough funders (whose contributions total more than half of the goal) vote to reject it, the stream will be stopped and anything left in the fund will be returned to funders proportional to their contributions.
-
-### Splitting and vesting
-
-In addition to streaming, drafters can choose to enforce splitting and/or vesting on their solution funds. By enforcing distribution mechanisms up front, drafters can help funders feel more confident that their funds will be used appropriately.
-
 ### Comments
 
 Allow anyone to comment on ideas and solutions. This will require moderation.
@@ -135,9 +123,9 @@ Allow anyone to comment on ideas and solutions. This will require moderation.
 
 #### For solutions
 
-[Aura](https://brightid.gitbook.io/aura) scorecards for the solutions, where experts evaluate the validity and impact of solutions, the track record of drafters, and sniff out scams.
+[Aura](https://brightid.gitbook.io/aura) scorecards for the solutions, where experts evaluate the validity and impact of solutions, idea-solution fit, the track record of drafters, and sniff out scams.
 
-They can also report on solution impact and idea-solution fit.
+They can also report on the quality and impact of a funded solution's implementation.
 
 #### For drafters
 
@@ -146,6 +134,12 @@ Drafters that create multiple solutions can request their own score cards.
 #### For funders
 
 Frequent funders (DAOs, philanthropists, grant-makers) can also request to have their own score cards.
+
+### Streaming, splitting, vesting, and claw-back
+
+A solution can set their solution fund to stream, vest or split (to multiple recipients) which takes effect once the goal is reached. These settings can help contributors feel safer about funding the solution.
+
+A solution can configure Aura (see above) as a judge to provide funder claw back. If Aura finds the solution to be poorly implemented, any tokens left in the solution fund will be returned to funders proportional to their contributions.
 
 ## UPD Tokens
 

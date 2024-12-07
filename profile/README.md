@@ -145,18 +145,16 @@ A solution can configure Aura (see above) as a judge to provide funder clawback.
 
 Fixed supply of 100B UPD.
 
-80B UPD will go into liquidity pools so anyone can buy UPD.
-
-### Updraft Council
-
-10B UPD will go to the Updraft Council safe with a mandate to fund ideas and solutions on Updraft.
+90B UPD[^2] will go into liquidity pools on ten networks so anyone can buy UPD. The LP tokens will be burned to provide permanent liquidity.
 
 ### Founding Team
 
-10B UPD will go to the founding team, who agree to spend the majority funding ideas and solutions on Updraft or donating to a universal dividend for humanity.
+10B UPD will go to the founding team, who agree to spend all[^3] of it funding ideas and solutions on Updraft.
 
 ### Humanity
 
-Anti-spam fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend.
+Anti-spam fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend. 87,890,625 UPD is pre-allocated to seed the dividend. The humanity dividend ensures no one is excluded from using Updraft because they can't pay the anti-spam fees.
 
 [^1]: The anti-spam fee for an idea is the greater of a % fee (e.g. 1%) and a low fixed fee (e.g. $0.10). Both are set by the Updraft team. The % fee discourages someone from contributing to their own idea just to boost it in the sort order. Drafters pay a low, fixed anti-spam fee set by the Updraft team.
+[^2]: The first liquidity pool will be on Arbitrum and have 45B UPD, the second (determined by a vote of UPD holders) will have 22.5B, the third will have 12.25B and so forth to the tenth pool. The remaining 87,890,625 UPD is pre-allocated to the humanity dividend.
+[^3]: Any taxes incurred from fees earned using Updraft can also be paid out of this allocation.

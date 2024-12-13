@@ -153,7 +153,7 @@ Fixed supply of 100B UPD.
 
 ### Humanity
 
-Anti-spam fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend. 87,890,625 UPD is pre-allocated to seed the humanity dividend. This ensures no one is excluded from using Updraft because they can't pay the fees.
+Anti-spam fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend. This ensures no one is excluded from using Updraft because they can't pay the fees.
 
 [^1]: The anti-spam fee for an idea is the greater of a % fee (e.g. 1%) and a low fixed fee (e.g. 1 UPD). Both are set by the Updraft team. The % fee discourages someone from contributing to their own idea just to boost it in the sort order. Drafters pay a low, fixed anti-spam fee set by the Updraft team.
 [^2]: The first liquidity pool will be on Arbitrum and provide initial access to UPD. Subsequent LP networks and stablecoin pairings will be determined by snapshot voting of UPD holders. (Founders are excluded from voting.)

@@ -24,7 +24,7 @@ Funding flow diagram ([Link to larger version with explanations](https://hackmd.
 
 ## Vision
 
-Public goods will be as easy to fund as for-profit ventures. DAOs, grant-makers and philanthropists will route all their ideas and proposals through Updraft to engage a larger community for support, feedback and solutions.
+Public goods will be as easy to fund as for-profit ventures. DAOs, grant-makers and philanthropists will route their ideas and proposals through Updraft to engage a larger community for support, feedback and solutions.
 
 ## Why it works
 
@@ -48,18 +48,18 @@ Updraft can fund more than pure public goods. Any project can make themselves mo
 
 ## Details
 
-Updraft is built using [attention streams](https://docs.google.com/document/d/1TKA-K8YadRdgz-Qek01TUcCkRaI9CKCXGtJ31AbVWIU/edit?tab=t.0#heading=h.c8wdt9uwyj7r).
+Updraft is built using [Attention Streams](https://docs.google.com/document/d/1TKA-K8YadRdgz-Qek01TUcCkRaI9CKCXGtJ31AbVWIU/edit?tab=t.0#heading=h.c8wdt9uwyj7r).
 
-Support for ideas are paid in Updraft tokens(UPD). Idea creators set the *contributor fee* for their idea as a percentage. This goes to previous funders of the idea. The idea creator doesn't need to pay the contributor fee. Both idea creators and contributors pay an anti-spam fee[^1](in UPD). The rest of a contribution is stored and used to determine future earnings as follow-on support comes in. The contribution and earnings can be withdrawn at any time; this encourages funders to reduce support for stale ideas. Ideas with the highest *interest* (total shares generated; called "relative support" in the Attention Streams doc) are sorted at the top of the default ordering and searches in Updraft.
+Support for ideas are paid in Updraft tokens(UPD). Idea creators set the *funder reward* for their idea as a percentage. This goes to previous funders of the idea. The idea creator doesn't need to pay the funder reward. Both idea creators and contributors pay an anti-spam fee[^1](in UPD). The rest of a contribution is stored and used to determine future earnings as follow-on support comes in. The contribution and earnings can be withdrawn at any time; this encourages funders to reduce support for stale ideas. Ideas with the highest *interest* (total shares generated; called "relative support" in the Attention Streams doc) are sorted at the top of the default ordering and searches in Updraft.
 
-A solution drafter pays an anti-spam fee[^1] (in UPD), sets a funding deadline, a stake amount (also in UPD), a funding goal (in a token they choose), and a contributor fee. Solution funders pay the contributor fee to previous funders. What remains goes to a locked solution fund. If the goal isn't reached by the deadline, the stake is paid to solution funders (split in proportion to shares, just like contributor fees) and all contributions to the solution fund are refunded.
+A solution drafter pays an anti-spam fee[^1] (in UPD), sets a funding deadline, a stake amount (also in UPD), a funding goal (in a token they choose), and a funder reward. Solution funders pay the funder reward to previous funders. What remains goes to a locked solution fund. If the goal isn't reached by the deadline, the stake is paid to solution funders (split in proportion to shares, just like funder rewards) and all contributions to the solution fund are refunded.
 
 Funders can also add any amount to the drafter's stake to attract follow-on supporters; they will get their full stake back if the solution reaches its goal and part of it back (since it's split among funders) if it doesn't.
 
-After a goal is reached, funders can still make contributions (from which they still pay contributor fees). A drafter can extend their solution with a new goal, stake, and deadline to continue to fund their efforts.
+After a goal is reached, funders can still make contributions (from which they still pay funder rewards). A drafter can extend their solution with a new goal, stake, and deadline to continue to fund their efforts.
 
 When creating a solution, the drafter sets the following parameters:
-* contributor fee % paid to solution funders. (This isn't paid by or earned by the drafter.)
+* funder reward % to solution funders. (This isn't paid or earned by the drafter.)
 * funding deadline
 * stake amount
 * funding goal
@@ -73,36 +73,18 @@ When creating a solution, the drafter sets the following parameters:
 
 Ideas and solutions have a "report spam" button. If an idea or solution is reported N times it is hidden by default. The Updraft team can review hidden ideas and solutions and whitelist them (which will permanently unhide them) if appropriate. There should also be a checkbox to "show hidden items."
 
-### Subscribe to tags
-
-Idea creators can add tags to their ideas. Participants can subscribe to tags so they can find new ideas and solutions they're interested in.
-
 ### Search, sort and filter
 
-#### Search by id
-Each idea and solution has a human-readable id so people can recommend ideas and solutions to each other and make sure they find the right one (since ideas or solutions could have similar names but different parameters).
+Updraft is launching with views for ideas with high interest, new ideas, solutions nearing their deadline, ideas with watched tags, and full-text searches on idea names and descriptions.
 
-#### Text / tag search
-Search for words in the name or description or tags.
-
-#### Sort
-Sort by "new," "popular," etc.
-
-#### Filters
-* Solutions (filter to only show ideas with solutions)
-  * Solution funding > X (find well funded solutions)
-  * Ending soon (solutions about to reach the deadline and fail their goal)
-  * Interest (cost per 1% share) < X (find a solution that doesn't have a lot of support yet)
-* Ideas
-  * Interest (cost per 1% share) < X (find an idea that doesn't have a lot of support yet)
-
-### Trending ideas
-
-Once they're done checking activity (so maybe on the Activity page), I think it'd be cool to show them if they are any new ideas (especially "hot" ideas that are new and rising quickly).
+#### Future views
+* Solutions
+  * Solutions using a specific token
+  * Solution funding > X
 
 ### Ideas for you
 
-Recommendation engine to show ideas similar to ones they've supported in the past, or suggest ideas based on cohort analysis (e.g. you supported idea X; people who supported X also supported Y, therefore we will show you Y).
+Recommendation engine to show ideas similar to ones a user supported in the past, or suggest ideas based on cohort analysis (e.g. you supported idea X; people who supported X also supported Y, therefore we will show you Y).
 
 The "Ideas for you" section could feature prominently on the main page.
 
@@ -145,7 +127,11 @@ A solution can configure Aura (see above) as a judge to provide funder clawback.
 
 Fixed supply of 100B UPD.
 
-90B UPD[^2] will go into liquidity pools on ten networks so anyone can buy UPD. The LP tokens will be burned to provide permanent liquidity.
+90B UPD[^2] will go into liquidity pools so anyone can buy UPD. The LP tokens will be burned to provide permanent liquidity.
+
+First, 30B UPD will be put in a liquidity pool on Arbitrum; then a vote will be held by UPD holders to determine the networks and sizes of the remaining liquidity pools.
+
+UPD holders will also vote on which stable coins should be paired with UPD and given priority in Updraft. Founders are excluded from UPD-holder voting.
 
 ### Founding Team
 

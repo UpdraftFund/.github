@@ -1,6 +1,10 @@
 # 🪁Updraft
 ![updraft-512](https://github.com/UpdraftFund/.github/raw/main/profile/updraft-512.png)
 
+* [Updraft Discord](https://discord.gg/mQJ58MY6Nz)
+* [Updraft for orgs deck](https://docs.google.com/presentation/d/19Yz_sKd_6erlpmpTcYp-VpZvQBPd8HBOPfANqiEubeY)
+* [Updraft overview deck](https://docs.google.com/presentation/d/1opRgIcf7iH_aiQzKpeVr110kt5L8bA6mtbjl2YGPXAU)
+
 Get paid to crowdfund and work on public goods.
 
 ## How it works

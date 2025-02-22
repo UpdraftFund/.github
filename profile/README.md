@@ -131,20 +131,23 @@ A solution can configure Aura (see above) as a judge to provide funder clawback.
 
 Fixed supply of 100B UPD.
 
-90B UPD[^2] will go into liquidity pools so anyone can buy UPD. The LP tokens will be burned to provide permanent liquidity.
+### Liquidity pools and voting
 
-First, 30B UPD will be put in a liquidity pool on Arbitrum; then a vote will be held by UPD holders to determine the networks and sizes of the remaining liquidity pools.
+90B+ UPD will go into liquidity pools so anyone can buy UPD. The LP tokens will be burned to provide permanent liquidity.
 
-UPD holders will also vote on which stable coins should be paired with UPD and given priority in Updraft. Founders are excluded from UPD-holder voting.
+First, 30B UPD will be put in a liquidity pool on Arbitrum. Updraft itself will then be used to decide which networks get liquidity pools, by participants supporting ideas with the `updraft` and `liquidity` tags.
 
-### Founding Team
+Everyone will also vote on which stable coins should be paired with UPD and given priority in Updraft.
 
-10B UPD will go to the founding team, who agree to spend all[^3] of it funding ideas and solutions on Updraft.
+Founders will exclude themselves from these votes.
+
+### Founder's choice fund
+
+A maximum of 10B UPD will go to the *founder's choice fund* which will be a grant-making body that funds ideas and solutions on Updraft. They can choose to dissolve and return any portion of that to the liquidity pools on various networks.
 
 ### Humanity
 
 Anti-spam fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend. This ensures no one is excluded from using Updraft because they can't pay the fees.
 
 [^1]: The anti-spam fee for an idea is the greater of a % fee (e.g. 1%) and a low fixed fee (e.g. 1 UPD). Both are set by the Updraft team. The % fee discourages someone from contributing to their own idea just to boost it in the sort order. Drafters pay a low, fixed anti-spam fee set by the Updraft team.
-[^2]: The first liquidity pool will be on Arbitrum and provide initial access to UPD. Subsequent LP networks and stablecoin pairings will be determined by snapshot voting of UPD holders. (Founders are excluded from voting.)
 [^3]: Any taxes incurred from fees earned using Updraft can also be paid out of this allocation.

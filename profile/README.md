@@ -137,7 +137,7 @@ Fixed supply of 100B UPD.
 
 First, 30B UPD will be put in a liquidity pool on Arbitrum. Updraft itself will then be used to decide which networks get liquidity pools, by participants supporting ideas with the `updraft` and `liquidity` tags.
 
-Everyone will also vote on which stable coins should be paired with UPD and given priority in Updraft.
+Everyone will also vote on which stablecoins should be paired with UPD and given more visibility in Updraft, by supporting ideas with the `updraft` and `stablecoin` tags.
 
 Founders will exclude themselves from these votes.
 

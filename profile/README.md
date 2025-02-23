@@ -143,7 +143,7 @@ Founders will exclude themselves from these votes.
 
 ### Founder's choice fund
 
-A maximum of 10B UPD will go to the *founder's choice fund* which will be a grant-making body that funds ideas and solutions on Updraft. They can choose to dissolve and return any portion of that to the liquidity pools on various networks.
+A maximum of 10B UPD will go to the *founder's choice fund* which will be a grant-making body that funds ideas and solutions on Updraft.
 
 ### Humanity
 

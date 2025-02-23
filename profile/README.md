@@ -135,9 +135,9 @@ Fixed supply of 100B UPD.
 
 90B+ UPD will go into liquidity pools so anyone can buy UPD. The LP tokens will be burned to provide permanent liquidity.
 
-First, 30B UPD will be put in a liquidity pool on Arbitrum. Updraft itself will then be used to decide which networks get liquidity pools, by participants supporting ideas with the `updraft` and `liquidity` tags.
+First, 30B UPD will be put in a liquidity pool on Arbitrum. Updraft itself will then be used to decide which networks get liquidity pools, by participants supporting ideas with the `updraft`, `vote` and `networks` tags.
 
-Everyone will also vote on which stablecoins should be paired with UPD and given more visibility in Updraft, by supporting ideas with the `updraft` and `stablecoin` tags.
+Everyone will also vote on which stablecoins should be paired with UPD and given more visibility in Updraft, by supporting ideas with the `updraft`, `vote` and `stablecoins` tags.
 
 Founders will exclude themselves from these votes.
 

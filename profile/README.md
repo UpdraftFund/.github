@@ -46,9 +46,11 @@ Updraft is a [dominant assurance contract](https://en.wikipedia.org/wiki/Assuran
 
 ## Decentralization
 
-Updraft must be completely open-source and easy to fork. Some members of the global community might not like the team's decisions, or they may prefer a different front-end. Anyone should be allowed to create their own version and manage it with their own team as they please.
+Updraft must be completely open-source and easy to fork. Some members of the global community might not like a dev's decisions, or they may prefer a different front-end. Anyone should be allowed to create their own version and manage it as they please.
 
-Updraft can fund more than pure public goods. Any project can make themselves more like a public good by using Updraft to open work items as bounties. Drafters can start working on bounties even before they reach their funding goal, posting updates on their progress. Staking is always optional for solutions and may not be useful for bounties.
+## Bounties
+
+Any project can make themselves more like a public good by using Updraft to create ideas as bounties. Drafters can start working on bounties even before they reach their funding goal, posting updates on their progress. Staking is always optional for solutions and may not be useful for bounties.
 
 ## Details
 
@@ -60,7 +62,7 @@ A solution drafter pays an anti-spam fee[^1] (in UPD), sets a funding deadline, 
 
 Funders can also add any amount to the drafter's stake to attract follow-on supporters; they will get their full stake back if the solution reaches its goal and part of it back (since it's split among funders) if it doesn't.
 
-After a goal is reached, funders can still make contributions (from which they still pay funder rewards). A drafter can extend their solution with a new goal, stake, and deadline to continue to fund their efforts.
+After a goal is reached, funders can still make contributions (from which they still pay funder rewards). A drafter can extend their solution with a new goal, stake, and deadline to continue to fund their efforts or new related efforts.
 
 When creating a solution, the drafter sets the following parameters:
 * funder reward % to solution funders. (This isn't paid or earned by the drafter.)
@@ -69,38 +71,34 @@ When creating a solution, the drafter sets the following parameters:
 * funding goal
 * funding token
 
-[Aura](https://brightid.gitbook.io/aura) players in the Updraft domain create score cards rating drafters on how well they implemented their solution and how effective it was in achieving the parent idea. (See Future Features for more about Aura score cards.)
+## Features
 
-## Future features
-
-### Report and hide spam
-
-Ideas and solutions have a "report spam" button. If an idea or solution is reported N times it is hidden by default. The Updraft team can review hidden ideas and solutions and whitelist them (which will permanently unhide them) if appropriate. There should also be a checkbox to "show hidden items."
+Features marked with * are not available at launch, but could be proposed as ideas for improving Updraft.
 
 ### Search, sort and filter
 
-Updraft is launching with views for ideas with high interest, new ideas, solutions nearing their deadline, ideas with watched tags, and full-text searches on idea names and descriptions.
+Updraft is launching with views for ideas with high interest, new ideas, solutions nearing their deadline, ideas from followed accounts, ideas with watched tags, and full-text searches on idea names and descriptions.
 
-#### Future views
+#### Future views*
 * Solutions
   * Solutions using a specific token
   * Solution funding > X
 
-### Ideas for you
+### Ideas for you*
 
-Recommendation engine to show ideas similar to ones a user supported in the past, or suggest ideas based on cohort analysis (e.g. you supported idea X; people who supported X also supported Y, therefore we will show you Y).
+Recommendation engine to show ideas similar to ones a user supported in the past, or suggest ideas based on cohort analysis (e.g. you supported idea X; people who supported X also supported Y).
 
-The "Ideas for you" section could feature prominently on the main page.
-
-### Anti-spam fee set by community
+### Anti-spam fee set by community*
 
 Set the anti-spam fee amount using a continuous median vote. Anyone who is Aura verified as a unique human is eligible to vote.
 
-### Comments
+### Comments*
 
 Allow anyone to comment on ideas and solutions. This will require moderation.
 
-### Aura scorecards
+### Aura scorecards*
+
+[Aura](https://brightid.gitbook.io/aura) players in the Updraft domain create score cards rating drafters on how well they implemented their solution and how effective it was in achieving the parent idea.
 
 #### Benefits
 
@@ -123,31 +121,30 @@ Frequent funders (DAOs, philanthropists, grant-makers) can also request to have 
 
 ### Streaming, splitting, vesting, and clawback
 
-A solution can set their solution fund to stream, vest or split (to multiple recipients) which takes effect once the goal is reached. These settings can help contributors feel safer about funding the solution.
+A solution can set their solution fund to stream, vest or split (to multiple recipients or milestones) which takes effect once the goal is reached. These settings can help contributors feel safer about funding the solution.
 
 A solution can configure Aura (see above) as a judge to provide funder clawback. If Aura finds the solution to be poorly implemented, any tokens left in the solution fund will be returned to funders proportional to their contributions.
 
 ## UPD Tokens
 
-Fixed supply of 100B UPD.
+There is a fixed supply of 100B UPD minted on Ethereum mainnet and available from liquidity pools on various networks.
 
 ### Liquidity pools and voting
 
 90B+ UPD will go into liquidity pools so anyone can buy UPD. The LP tokens will be burned to provide permanent liquidity.
 
-First, 30B UPD will be put in a liquidity pool on Arbitrum. Updraft itself will then be used to decide which networks get liquidity pools, by participants supporting ideas with the `updraft`, `vote` and `networks` tags.
+30B UPD will be put in a liquidity pool on Arbitrum. Updraft users will then decide which other networks get liquidity pools and their sizes, by supporting ideas with the `updraft`, `vote` and `network` tags.
 
-Everyone will also vote on which stablecoins should be paired with UPD and given more visibility in Updraft, by supporting ideas with the `updraft`, `vote` and `stablecoins` tags.
+Updraft users will also vote on which stablecoins should be paired with UPD and given more visibility in Updraft, by supporting ideas with the `updraft`, `vote` and `stablecoin` tags.
 
 Founders will exclude themselves from these votes.
 
-### Founder's choice fund
+### Founder's fund
 
-A maximum of 10B UPD will go to the *founder's choice fund* which will be a grant-making body that funds ideas and solutions on Updraft.
+A maximum of 10B UPD will go to the *founder's fund* which will be a grant-making body that funds ideas and solutions on Updraft.
 
-### Humanity
+### UPD Faucet
 
-Anti-spam fees will go to [Unitap](https://unitap.app) to be distributed to humanity as a universal dividend. This ensures no one is excluded from using Updraft because they can't pay the fees.
+Anti-spam fees will go to [Unitap](https://unitap.app) to be distributed to anyone interested in using Updraft. This ensures no one is excluded from using Updraft because they can't pay the fees.
 
-[^1]: The anti-spam fee for an idea is the greater of a % fee (e.g. 1%) and a low fixed fee (e.g. 1 UPD). Both are set by the Updraft team. The % fee discourages someone from contributing to their own idea just to boost it in the sort order. Drafters pay a low, fixed anti-spam fee set by the Updraft team.
-[^3]: Any taxes incurred from fees earned using Updraft can also be paid out of this allocation.
+[^1]: The anti-spam fee for an idea is the greater of a % fee (e.g. 1%) and a low, fixed fee (e.g. 1 UPD). The % fee discourages someone from contributing to their own idea just to boost it in the sort order. Drafters pay the low, fixed anti-spam fee.

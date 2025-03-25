@@ -48,3 +48,8 @@ Hotfix branches are created as needed. Because multiple hotfixes may be worked o
 #### Naming
 
 The name of a hotfix branch should begin with `hotfix` .
+
+## Fixing Bad Commits
+
+If you push a commit to origin and other people may have pulled it and based work on it, fixing with `git rebase` is no longer an option. (See ["rebase peril."](https://git-scm.com/book/en/v2/Git-Branching-Rebasing#_rebase_peril)) You will need to use `git revert` or `git restore` and resolve any conflicts, then push to origin again.
+

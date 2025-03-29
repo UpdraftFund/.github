@@ -131,9 +131,9 @@ There is a fixed supply of 100B UPD minted on Ethereum mainnet and available fro
 
 ### Liquidity pools and voting
 
-90B+ UPD will go into liquidity pools so anyone can buy UPD. The LP tokens will be burned to provide permanent liquidity.
+90B+ UPD will go into liquidity pools so anyone can buy UPD. The LP tokens will be burned to provide permanent liquidity. Initially, 90B UPD will be added to a UPD/USDC pool on arbitrum, but this will be adjusted based on the outcome of the votes described below.
 
-30B UPD will be put in a liquidity pool on Arbitrum. Updraft users will then decide which other networks get liquidity pools and their sizes, by supporting ideas with the `updraft`, `vote` and `network` tags.
+Updraft users will decide which networks get liquidity pools and their sizes, by supporting ideas with the `updraft`, `vote` and `network` tags. Each of the top ten networks by interest (🔥) will get a pool size proportional to its share of the total interest of the top ten networks.
 
 Updraft users will also vote on which stablecoins should be paired with UPD and given more visibility in Updraft, by supporting ideas with the `updraft`, `vote` and `stablecoin` tags.
 

@@ -147,8 +147,6 @@ Updraft users will decide which networks get liquidity pools and their sizes, by
 
 Updraft users will also vote on which stablecoins should be paired with UPD and given more visibility in Updraft, by supporting ideas with the `updraft`, `vote` and `stablecoin` tags.
 
-Founders will exclude themselves from these votes.
-
 ### Founder's fund
 
 A maximum of 10B UPD will go to the *founder's fund* which will be a grant-making body that funds ideas and solutions on Updraft.

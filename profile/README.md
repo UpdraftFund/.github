@@ -15,13 +15,13 @@ Post an idea that would make your community or the world better. Support other p
 
 Ideas with the most support rise to the top and receive more views from the public and solution providers (drafters).
 
-### Support solutions
+### Fund solutions
 
-Drafters propose solutions to ideas and optionally stake their own funds that their solutions will reach their support goals.
+Drafters propose solutions to ideas and optionally stake their own funds that their solutions will reach their funding goals.
 
-If a solution doesn't reach its support goal, funders receive a refund from the solution fund plus a portion of the drafter's stake. If the solution reaches its goal, congratulations!--you helped build something that will make the world better.
+If a solution doesn't reach its funding goal, funders receive a refund from the solution fund plus a portion of the drafter's stake. If the solution reaches its goal, congratulations!--you helped build something that will make the world better.
 
-You also earn money from any support that comes after yours. A drafter can continue to receive support and add more goals while early funders continue to earn.
+You also earn money from any funding that comes after yours. A drafter can continue to receive funding and add more goals while early funders continue to earn.
 
 Funding flow diagram ([Link to larger version with explanations](https://hackmd.io/VAIblnwwRwCUA1bkUEli8A))
 ![updraft-funding-flow](https://github.com/UpdraftFund/.github/raw/main/profile/updraft-funding-flow.png)
@@ -73,30 +73,30 @@ When creating a solution, the drafter sets the following parameters:
 
 ## Features
 
-Features marked with * are not available at launch, but could be proposed as ideas for improving Updraft.
+Many of these features may not be available at launch, but could be proposed as ideas for improving Updraft.
 
 ### Search, sort and filter
 
 Updraft is launching with views for ideas with high interest, new ideas, solutions nearing their deadline, ideas from followed accounts, ideas with watched tags, and full-text searches on idea names and descriptions.
 
-#### Future views*
+#### Future views
 * Solutions
   * Solutions using a specific token
   * Solution funding > X
 
-### Ideas for you*
+### Ideas for you
 
 Recommendation engine to show ideas similar to ones a user supported in the past, or suggest ideas based on cohort analysis (e.g. you supported idea X; people who supported X also supported Y).
 
-### Anti-spam fee set by community*
+### Anti-spam fee set by community
 
 Set the anti-spam fee amount using a continuous median vote. Anyone who is Aura verified as a unique human is eligible to vote.
 
-### Comments*
+### Comments
 
 Allow anyone to comment on ideas and solutions. This will require moderation.
 
-### Aura scorecards*
+### Aura scorecards
 
 [Aura](https://brightid.gitbook.io/aura) players in the Updraft domain create score cards rating drafters on how well they implemented their solution and how effective it was in achieving the parent idea.
 
@@ -128,6 +128,14 @@ A solution can configure Aura (see above) as a judge to provide funder clawback.
 ## UPD Tokens
 
 There is a fixed supply of 100B UPD minted on Ethereum mainnet and available from liquidity pools on various networks.
+
+### How UPD tokens are used
+
+* Anti-spam fees are paid in UPD (creating and supporting ideas, creating solutions, updating solutions, editing your profile).
+* Supporting an idea always uses UPD.
+* Staking on a solution always uses UPD.
+
+Solution funding can use UPD or any token the solution drafter chooses. There are no fees for funding a solution.
 
 ### Liquidity pools and voting
 

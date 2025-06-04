@@ -15,7 +15,7 @@ Get paid to crowdfund and work on what you love.
 
 Post an idea that would make your community or the world better. Support other people's ideas. If your idea or an idea you supported receives more support, you earn money.
 
-Ideas with the most support rise to the top and receive more views from the public and solution providers (drafters).
+Ideas with the most support rise to the top and receive more views from the public and people who can solve them.
 
 ### Fund solutions
 

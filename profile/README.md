@@ -7,7 +7,7 @@
 * [Updraft for orgs deck](https://docs.google.com/presentation/d/19Yz_sKd_6erlpmpTcYp-VpZvQBPd8HBOPfANqiEubeY)
 * [Updraft overview deck](https://docs.google.com/presentation/d/1opRgIcf7iH_aiQzKpeVr110kt5L8bA6mtbjl2YGPXAU)
 
-Get paid to crowdfund and work on what you love.
+Get paid to find ideas, crowdfund and work on what you love.
 
 ## How it works
 

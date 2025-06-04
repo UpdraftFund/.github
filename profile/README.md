@@ -143,15 +143,11 @@ Solution funding can use UPD or any token the solution drafter chooses. There ar
 
 90B+ UPD will go into liquidity pools so anyone can buy UPD. The LP tokens will be burned to provide permanent liquidity.
 
-Initially, 100B UPD will be added to a UPD-USDC pool on Arbitrum, but this will be adjusted based on the outcome of the votes described below.
-
-Updraft users will decide which networks get liquidity pools and their sizes, by supporting ideas with the `updraft`, `vote` and `network` tags. Each of the top ten networks by interest (🔥) will get a pool size proportional to its share of the total interest of the top ten networks.
-
-Updraft users will also vote on which stablecoins should be paired with UPD and given more visibility in Updraft, by supporting ideas with the `updraft`, `vote` and `stablecoin` tags.
+Initially, 100B UPD will be added to a UPD-USDC pool on Arbitrum, but final sizes, networks, and token pairs of liquidity pools will be based on the outcome of [votes described in the user guide](https://guide.updraft.fund/updraft/voting/voting).
 
 ### Founder's fund
 
-A maximum of 10B UPD will go to the *founder's fund* which will be a grant-making body that funds ideas and solutions on Updraft.
+A maximum of 10B UPD will go to the *founder's fund*: a grant-making body that funds ideas and solutions on Updraft.
 
 ### UPD Faucet
 

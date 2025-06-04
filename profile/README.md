@@ -1,4 +1,4 @@
-[![GitBook](https://img.shields.io/static/v1?message=Guide%20on%20GitBook&logo=gitbook&logoColor=333&label=%20&labelColor=80C8E0&color=096396)](https://guide.updraft.fund/)
+[![GitBook](https://img.shields.io/static/v1?message=Guide%20on%20GitBook&logo=gitbook&logoColor=fff&label=%20&labelColor=0A4364&color=0E6A9C)](https://guide.updraft.fund/)
 # 🪁Updraft
 ![updraft-512](https://github.com/UpdraftFund/.github/raw/main/profile/updraft-512.png)
 

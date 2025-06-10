@@ -5,7 +5,7 @@
 * [Updraft App](https://www.updraft.fund)
 * [Updraft Discord](https://discord.gg/mQJ58MY6Nz)
 * [Updraft Guide](https://guide.updraft.fund)
-* [Updraft Blog](https://mirror.xyz/0xB7C5583C4C81e97e2883F4B2A250368d8eEcB0e2). Read the introductory post on Updraft.
+* [Updraft Blog](https://mirror.xyz/0xB7C5583C4C81e97e2883F4B2A250368d8eEcB0e2). [Read the introductory post on Updraft](https://mirror.xyz/0xB7C5583C4C81e97e2883F4B2A250368d8eEcB0e2/T7Nov-X_ckpJG0MJAnhpF-aYShz7Ey26-tSqakeKEQw).
 * [Updraft for orgs deck](https://docs.google.com/presentation/d/19Yz_sKd_6erlpmpTcYp-VpZvQBPd8HBOPfANqiEubeY)
 * [Updraft overview deck](https://docs.google.com/presentation/d/1opRgIcf7iH_aiQzKpeVr110kt5L8bA6mtbjl2YGPXAU)
 

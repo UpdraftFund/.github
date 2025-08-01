@@ -85,7 +85,7 @@ Updraft is launching with views for ideas with high interest, new ideas, attract
 
 ### Ideas for you
 
-Recommendation engine to show ideas similar to ones you supported in the past, or suggest ideas based on cohort analysis (e.g. you supported idea X; people who supported X also supported Y).
+Recommendation engine to show ideas similar to ones you supported in the past, or suggest ideas based on collaborative filtering (e.g. you supported idea X; people who supported X also supported Y).
 
 ### Anti-spam fee set by community
 
